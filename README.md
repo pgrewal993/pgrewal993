@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on project Food drive
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on sports with alberta girls club
 - 🤔 I’m looking for help with my experience in managing teams
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 -->
 
-DEPLOY LINK:https://share.streamlit.io/
+DEPLOY LINK:[https://share.streamlit.io/](https://pgrewal993-7g4yfuzvwwkpmtyamwcjnt.streamlit.app/)
 With the use of iris dataset we have deployed the repo using the streamlit app.
 We uploaded app.py and requirement.txt on github.
 Github was linked with streamlit app and then app wa created.
